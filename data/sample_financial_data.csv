@@ -1,0 +1,5 @@
+invoice_id,customer,amount,currency,status
+INV-1001,Acme Labs,1200,USD,paid
+INV-1002,Northwind,3500,EUR,paid
+INV-1003,Blue Peak,850,USD,void
+INV-1004,Acme Labs,2000,USD,pending
