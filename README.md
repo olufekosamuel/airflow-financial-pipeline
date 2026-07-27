@@ -1,12 +1,12 @@
 # Financial Data Pipeline
 
-This folder contains a sanitized, standalone version of a financial data pipeline that was designed to mirror the structure of a company-facing Airflow workflow without including any sensitive information.
+This repo contains a sanitized, standalone version of a financial data pipeline that was designed to mirror the structure of a company-facing Airflow workflow without including any sensitive information.
 
 ## What is included
 - A lightweight Python pipeline for loading, cleaning, and exporting financial data
 - A sample CSV input file for demonstration
 - An Airflow DAG definition for orchestration
-- A small test suite to verify the pipeline behavior
+- A small test suite to verify the pipeline behaviour
 
 ## Project structure
 - src/pipeline.py: core ETL logic
